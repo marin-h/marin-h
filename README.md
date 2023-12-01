@@ -4,6 +4,8 @@ Here you'll find some info on me and my work.
 
 👩‍🔧 I currently work as a Software Reliability / Backend Engineer using node.js and python.
 
+🎓 I have a bachelor degree in CS and another one in EdTech.
+
 🛠 I like scripting productivity / scraping tools.
 
 ✨ I'm used to working on a Linux machine and regret nothing :) 
